@@ -1,4 +1,6 @@
 # Hi 👋, I'm Gajanan Shinde  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&lines=Embedded+Software+Engineer;AUTOSAR+%7C+Diagnostics+%7C+CAN;Automotive+ECU+Development)
+
 
 🚗 Embedded & Automotive Software Engineer | AUTOSAR | Diagnostics | CAN  
 📍 Pune | Bangalore | Hyderabad  
